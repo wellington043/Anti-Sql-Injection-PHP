@@ -5,8 +5,6 @@
 
 	ANTI SQL INJECTION BY: Gabriel Aparecido - (Phoenix) 
 	GITHUB: https://github.com/Phoenix-code21
-	YOUTUBE CHANNEL: https://www.youtube.com/channel/UCz-Xh2q3iFgpwi-QpJPjSsw
-
 	|---------------------------------------------------------------------------------|
 
 	Como usar?
